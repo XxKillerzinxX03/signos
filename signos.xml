@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Representado pelo elemento fogo e pela cabeça de carneiro como símbolo, o signo de áries é conhecido pelo senso de liderança, autonomia e pioneirismo, assim como pela sua coragem e autoconfiança.
+                Outra característica associada ao primeiro signo do zodíaco é a impulsividade, muitas vezes relacionada a um perfil mais “explosivo” e impaciente.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Os taurinos têm a terra como elemento e a cabeça de um touro simbolizando o signo, normalmente representada por um círculo com dois chifres. Eles são considerados pessoas leais, protetoras e determinadas.
+                    Além disso, o signo é conhecido por gostar de aproveitar os prazeres da vida, como comer e dormir, por exemplo — por isso é associado à preguiça e à gula. Também podem apresentar a teimosia como um aspecto forte de personalidade.</descricao>
+    </signo>
+  
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>O signo de gêmeos é comunicativo, sociável e inteligente. Regido pelo elemento ar e representado pelo número 2 em algarismos romanos, esse é um signo adaptável e tem uma energia ligada ao mental.
+                    Geminianos também são conhecidos pela curiosidade e vontade de aprender, o que se relaciona a essa energia mental — que também pode despertar impaciência, ansiedade e superficialidade.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>O significado dos signos se relaciona com o símbolo que os representa e com câncer isso não é diferente.
+                    Representado por um caranguejo, esse signo pode ser mais reservado e cauteloso, protegendo suas emoções — assim como o caranguejo se protege em sua casca.
+                    Além disso, os cancerianos, regidos pelo elemento água, são conhecidos pela sensibilidade e por serem carinhosos, assim como pela conexão com a família e com o passado. Por outro lado, tem como desafio não alimentar mágoas.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Representados por um leão e regidos pelo elemento fogo, os leoninos apresentam como características a criatividade, o carisma e a generosidade.
+                    Esse signo também é associado à coragem, determinação e a autoconfiança — que pode ser relacionada a uma arrogância em alguns momentos. A individualidade também é uma característica que pode atenuar o senso de egocentrismo.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo de terra, representado pela letra “M” ou pela imagem de uma mulher. Conhecidos pelo senso de organização, os virginianos são determinados, trabalhadores e disciplinados.
+                    Ao avaliar o significado dos signos, características como a capacidade analítica e detalhista — muitas vezes relacionadas ao perfeccionismo e ao hipercriticismo — também são relacionados ao signo de virgem, assim como a praticidade e o altruísmo.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Representado pelo símbolo da balança, os librianos são conhecidos pelo senso de justiça e pela diplomacia, assim como pela harmonia e a busca pelo equilíbrio.
+                    O signo de libra é regido pelo elemento ar e tem como características associadas a ele a sociabilidade, inteligência e a capacidade de apreciar a beleza das coisas. Tem como desafio aprender a dizer não.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>O signo de escorpião é representado pelo animal de mesmo nome e tem o elemento de água como seu regente. É conhecido pela intensidade e profundidade emocional, assim como pela persistência e o carisma.
+                    Além disso, o signo está associado a um interesse por temas esotéricos e mais profundos ou misteriosos. Os escorpianos também têm como características a capacidade de transformação.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>O símbolo do Sagitário é uma flecha, associada ao centauro, que também pode aparecer em algumas representações do signo. Ligado ao elemento fogo, é um signo que tem como características o senso de aventura, exploração e sabedoria.
+                    Sagitarianos também prezam pela autonomia, a liberdade e pela espontaneidade. Além disso, é um signo relacionado à impulsividade.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Regido pelo elemento terra, Capricórnio é representado pela cabra marinha e é um signo conhecido pela determinação, responsabilidade e pelo pragmatismo.
+                    Os capricornianos também são trabalhadores, ambiciosos e práticos. Outras características são a busca pela estabilidade, segurança e a capacidade visionária. Vale se atentar em aprender a ser menos solitário.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Assim como o significado dos signos de ar, como Gêmeos, aquarianos também tem uma energia mais mental, que confere algumas características relacionadas ao signo, como capacidade analítica, lógica e objetiva.
+                    Representado por duas ondas, esse é um signo conhecido pela originalidade, individualidade e sociabilidade. Além disso, Aquário pode ser relacionado a rebeldia, a inovação e a mudanças.</descricao>
+    </signo>
+   
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Signo de elemento água, Peixes tem como características a sensibilidade, criatividade e a empatia. Representado por dois peixes, o último signo do zodíaco é conhecido por ser sonhador, intuitivo e conectado a emoções.
+                    Esse signo também é conhecido pela relação com a arte, capacidade de adaptação e conexão com a espiritualidade.</descricao>
+    </signo>
+</signos>
